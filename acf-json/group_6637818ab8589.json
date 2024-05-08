@@ -1,0 +1,133 @@
+{
+    "key": "group_6637818ab8589",
+    "title": "Kleur instellingen",
+    "fields": [
+        {
+            "key": "field_663781d6b07ef",
+            "label": "Kleur 1",
+            "name": "kleur_1",
+            "aria-label": "",
+            "type": "color_picker",
+            "instructions": "Deze kleur wordt gebruikt als standaard achtergrond",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#fff",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_663781f840db2",
+            "label": "Kleur 2",
+            "name": "kleur_2",
+            "aria-label": "",
+            "type": "color_picker",
+            "instructions": "Dit is de basis huisstijl kleur en wordt gebruikt voor kleurvlakken",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#4F72F7",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_663782248143e",
+            "label": "Kleur 3",
+            "name": "kleur_3",
+            "aria-label": "",
+            "type": "color_picker",
+            "instructions": "Dit is een tweede huisstijl kleur en wordt gebruikt voor de footer en titels",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#27325E",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_6637917b78e03",
+            "label": "Tekstkleur 1",
+            "name": "tekstkleur_2",
+            "aria-label": "",
+            "type": "color_picker",
+            "instructions": "Dit is de basis tekstkleur",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#000",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_663791fac893d",
+            "label": "Tekstkleur 2",
+            "name": "tekstkleur_1",
+            "aria-label": "",
+            "type": "color_picker",
+            "instructions": "Dit is de tekstkleur in kleurvlakken",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#fff",
+            "enable_opacity": 0,
+            "return_format": "string"
+        },
+        {
+            "key": "field_6637a0ab4c7c8",
+            "label": "Tekstkleur 3",
+            "name": "tekstkleur_3",
+            "aria-label": "",
+            "type": "color_picker",
+            "instructions": "Dit is de tekstkleur in footer",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#fff",
+            "enable_opacity": 0,
+            "return_format": "string"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "thema"
+            }
+        ]
+    ],
+    "menu_order": 2,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1714921665
+}

@@ -1,0 +1,22 @@
+{
+    "key": "ui_options_page_663a65ba0a20a",
+    "title": "Scripts",
+    "active": true,
+    "menu_order": 0,
+    "page_title": "Scripts",
+    "menu_slug": "scripts",
+    "parent_slug": "none",
+    "advanced_configuration": 0,
+    "icon_url": "",
+    "menu_title": "",
+    "position": "",
+    "redirect": 0,
+    "description": "",
+    "update_button": "Updaten",
+    "updated_message": "Options Updated",
+    "capability": "edit_posts",
+    "data_storage": "options",
+    "post_id": "",
+    "autoload": 0,
+    "modified": 1715103167
+}

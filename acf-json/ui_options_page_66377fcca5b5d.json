@@ -1,0 +1,22 @@
+{
+    "key": "ui_options_page_66377fcca5b5d",
+    "title": "Thema",
+    "active": true,
+    "menu_order": 0,
+    "page_title": "Thema",
+    "menu_slug": "thema",
+    "parent_slug": "none",
+    "advanced_configuration": 0,
+    "icon_url": "",
+    "menu_title": "",
+    "position": "",
+    "redirect": 0,
+    "description": "",
+    "update_button": "Updaten",
+    "updated_message": "Options Updated",
+    "capability": "edit_posts",
+    "data_storage": "options",
+    "post_id": "",
+    "autoload": 0,
+    "modified": 1714913248
+}

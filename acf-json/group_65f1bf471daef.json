@@ -1,0 +1,45 @@
+{
+    "key": "group_65f1bf471daef",
+    "title": "Tekst",
+    "fields": [
+        {
+            "key": "field_65f1bf47560c9",
+            "label": "tekst",
+            "name": "tekst",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "Lorem ipsum dolor sit amet. Eum quia laboriosam et sequi dolorum vel voluptatum fuga aut soluta voluptates eos amet fugiat est odio voluptas. Quo galisum enim qui deleniti vitae aut dolore nesciunt non deleniti tempore. Non veritatis quasi est distinctio molestiae ut commodi natus qui nesciunt pariatur et ipsum vero non galisum facilis id error ullam.\r\n\r\nIn unde dignissimos 33 sunt adipisci aut libero omnis ut beatae voluptatem est perspiciatis eveniet sit impedit iste ut vero consectetur. Sed nulla libero qui ullam sapiente qui totam earum quo veritatis consequatur!\r\n\r\nEx molestiae cupiditate 33 aspernatur odit ut sunt laboriosam sit fuga tempora qui itaque galisum cum atque amet quo quas eaque. 33 laudantium aliquam rem voluptatibus laudantium ut beatae magni et repudiandae iste. Qui officiis nulla et ipsum laborum aut ratione repellat. Qui deleniti quidem sit perspiciatis architecto nam quas possimus aut molestiae rerum in autem odit.",
+            "tabs": "all",
+            "toolbar": "basic",
+            "media_upload": 1,
+            "delay": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "block",
+                "operator": "==",
+                "value": "acf\/acf-tekst"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1715098027
+}
