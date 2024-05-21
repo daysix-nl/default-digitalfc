@@ -12,7 +12,7 @@ $image_alt = isset($image['alt']) ? esc_attr($image['alt']) : '';
 <?php if (get_field('uitlijning') !== "fotorechts"): ?>   
 <section class="bg-een relative overflow-hidden">
     <div class="w-full max-w-[330px] md:max-w-[540px] lg:max-w-[1120px] xl:max-w-[1306px] px-[20px] md:px-[40px] lg:px-[70px] xl:px-[80px] mx-auto flex justify-between items-center py-[65px] md:py-[70px] lg:py-[100px] xl:py-[120px] relative z-[2] <?php echo get_field('padding_top');?> <?php echo get_field('padding_bottom');?>">
-        <div class="hidden lg:block lg:h-[600px] lg:w-[410px] xl:h-[650px] xl:w-[444px] overflow-hidden">
+        <div class="hidden lg:block lg:h-[600px] lg:w-[410px] xl:h-[650px] xl:w-[444px] overflow-hidden image-size">
             <img src="<?php echo $image_url; ?>" alt="<?php echo $image_alt; ?>" class="min-h-full min-w-full object-cover object-center-top">
         </div>
         <div class="w-full lg:block lg:w-[467px] xl:w-[499px] xl:mr-[95px]">
